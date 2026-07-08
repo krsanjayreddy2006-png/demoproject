@@ -1,4 +1,4 @@
-# 💰 FinRelief AI — Setup Guide
+# 💰 AI Powered Debt Relief & Financial Recovery Platform — Setup Guide
 
 ## ✅ Bugs Fixed
 - `datetime.utcnow()` → `datetime.now(timezone.utc)` (deprecated warning removed)
